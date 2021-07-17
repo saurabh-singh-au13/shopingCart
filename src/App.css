@@ -1,0 +1,18 @@
+.app {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+body{
+  background: var(--primary-color);
+  color: white;
+
+}
+.product__image {
+  width: 250px;
+  object-fit: contain;
+  border-radius: 10px;
+  height: 250px;
+}
